@@ -1,7 +1,6 @@
-# Hangman Projekt
+# Hangman Project
 
-## Einleitung
+## Introduction
 
-Willkommen zu meinem Hangman-Projekt! In dieser persönlichen Implementierung von Hangman können Sie das beliebte Worträtselspiel spielen.
-
+Welcome to my Hangman-project! In this personal implementation of Hangman, you can play the popular word puzzle game.
 
